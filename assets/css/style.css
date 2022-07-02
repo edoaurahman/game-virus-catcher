@@ -1,0 +1,17 @@
+.game-align {
+    margin-right: auto!important;
+    margin-left: auto!important;
+    display: block;
+}
+.menu{
+    margin-top: 70px;
+    height: 600px;
+    background-color: rgb(219, 219, 219);
+}
+.button{
+    margin-top: 10px;
+}
+
+.button-align{
+    margin-top: 250px;
+}
